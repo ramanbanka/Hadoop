@@ -32,5 +32,5 @@
  <property>
    <name>dfs.datanode.data.dir</name>
    <value>file:/home/hduser/hadoop_store/hdfs/datanode</value>
- </property>-->
+ </property>
 </configuration>
