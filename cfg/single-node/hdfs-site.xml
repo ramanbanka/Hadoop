@@ -27,10 +27,10 @@
  </property>
  <property>
    <name>dfs.namenode.name.dir</name>
-   <value>file:/home/hduser/hadoop_store/hdfs/namenode</value>
+   <value>file:/home/hduser/hdfs/namenode</value>
  </property>
  <property>
    <name>dfs.datanode.data.dir</name>
-   <value>file:/home/hduser/hadoop_store/hdfs/datanode</value>
+   <value>file:/home/hduser/hdfs/datanode</value>
  </property>
 </configuration>

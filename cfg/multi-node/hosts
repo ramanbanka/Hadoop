@@ -1,5 +1,8 @@
-192.168.15.111 raman
-192.168.15.102 rohit
+10.42.0.35 raman
+10.42.0.1 rohit
+10.42.0.50 mrpran
+10.42.0.71 shivam
+#10.42.0.x rahul-PC
 127.0.0.1	localhost
 
 # The following lines are desirable for IPv6 capable hosts
