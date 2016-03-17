@@ -1,0 +1,6 @@
+Input data is of form
+date time store_name product_category price method_of_payment
+
+delimited by tabs
+
+Find the monetary value for the highest individual sale for each separate store.

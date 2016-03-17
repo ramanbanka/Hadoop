@@ -1,0 +1,5 @@
+Input data is of form
+date time store_name product_category price method_of_payment
+
+delimited by tabs
+we need to find out the total sales for each store
