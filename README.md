@@ -3,6 +3,8 @@
 	This is my personal experience repository on hadoop.
 	I made this when I started to work with hadoop at MNNIT during my 3rd year.
 	
+	Read Hadoop_Report_1 for work done during this period.
+	
 	This repo contains all my previous experiences with hadoop and big data. 
 	cfg contains several scripts that I made to make installation of hadoop easy.
 	hadoop-streaming contains a utility that I use to write hadoop programs in python rather than in java.
